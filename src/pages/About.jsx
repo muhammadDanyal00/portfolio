@@ -75,7 +75,7 @@ Bachelor of Software Engineering | Sept 2021 - July 2025
           }}
         ></Box>
         <motion.img
-          src="/src/assets/profile2.jpg"
+          src="/profile2.webp"
           alt="Profile"
           style={{
             borderRadius: "15px",

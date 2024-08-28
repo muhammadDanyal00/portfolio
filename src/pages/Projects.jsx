@@ -7,33 +7,33 @@ const projects = [
   {
     title: "A blog website similar to Medium",
     year: "2024",
-    image: "/src/assets/blog2.webp",
+    image: "blog2.webp",
   },
   {
     title: "Expense Tracker App",
     year: "2024",
-    image: "/src/assets/expense2.webp",
+    image: "expense2.webp",
   },
   {
     title: "JWT Authentication System",
     year: "2023",
-    image: "/src/assets/lock2.webp",
+    image: "lock2.webp",
   },
 
   {
     title: "Bar-Code-Generator",
     year: "2024",
-    image: "/src/assets/barcode.webp",
+    image: "barcode.webp",
   },
   {
     title: "Location Tracker",
     year: "2024",
-    image: "/src/assets/location.webp",
+    image: "location.webp",
   },
   {
     title: "Decentralized Exchange",
     year: "2025 -- Under Construction",
-    image: "/src/assets/DEX.webp",
+    image: "DEX.webp",
   },
 ];
 

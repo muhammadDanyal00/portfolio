@@ -39,7 +39,7 @@ const Contact = () => {
           <Grid item xs={12} md={6}>
             <Box
               component="img"
-              src="\src\assets\contact.webp"
+              src="contact.webp"
               alt="Contact"
               sx={{
                 width: "100%",
