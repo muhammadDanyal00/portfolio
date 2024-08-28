@@ -1,0 +1,10 @@
+/* Global CSS Reset */
+html,
+body {
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+  height: 100%; /* Ensure the body takes full height */
+  overflow-x: hidden; /* Prevent horizontal overflow */
+  background-color: #121212; /* Set a dark background color */
+  color: #fff; /* Set default text color to white */
+}
